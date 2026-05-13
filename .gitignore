@@ -1,0 +1,28 @@
+# Raw data (too large for GitHub)
+data/raw/*.csv
+data/raw/*.csv.gz
+
+# Large generated files (exceed GitHub 100MB limit)
+data/processed/sessions.csv
+database/experiment.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix
+*.pbit
