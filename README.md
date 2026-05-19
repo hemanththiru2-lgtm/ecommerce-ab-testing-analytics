@@ -49,6 +49,19 @@ Real Kaggle Clickstream Data (2019-Dec.csv)
 
 ---
 
+## 📸 Dashboard Gallery
+
+### 1. Executive Summary
+![Executive Summary](screenshots/executive_summary.png)
+
+### 2. A/B Test Results
+![A/B Test Results](screenshots/ab_test_results.png)
+
+### 3. Segment Analysis
+![Segment Analysis](screenshots/segment_analysis.png)
+
+---
+
 ## 💡 Key Findings
 
 1. **The coupon is a net positive overall** — but not for everyone.
